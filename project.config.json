@@ -1,0 +1,27 @@
+{
+  "miniprogramRoot": "",
+  "compileType": "game",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "appid": "wx16b70b668ce1f78e",
+  "projectname": "Lucky Wheel",
+  "condition": {},
+  "libVersion": "3.5.8",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
