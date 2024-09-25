@@ -12,3 +12,5 @@ Wheel B: 50% chance to get 20 points, 50% chance to lose 10 points
 There are a total of six rounds, and the score is accumulated.
 
 一共六关，得分累计。
+
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/4375a9c2-9a88-4dd5-8cd6-c87b929e8999">
